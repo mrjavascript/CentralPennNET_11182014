@@ -1,0 +1,38 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.exe assembly's progress.
+The file is located at C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.exe assembly's progress.
+The file is located at C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.exe assembly's progress.
+The file is located at C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.exe assembly's progress.
+The file is located at C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.exe assembly's progress.
+The file is located at C:\Projects\CentralPennNET_11182014\FileCreator_Service\FileCreator_Service\bin\Debug\FileCreator_Service.InstallLog.
+
+The uninstall has completed.

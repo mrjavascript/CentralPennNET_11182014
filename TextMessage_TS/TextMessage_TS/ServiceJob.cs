@@ -31,7 +31,7 @@ namespace TextMessage_TS
 
         public void sendEmailText(float ram)
         {
-            MailMessage mail = new MailMessage("mike.melusky@gmail.com", "7173437075@tmomail.net");
+            MailMessage mail = new MailMessage("sendingemail@gmail.com", "7771231234@tmomail.net");
             SmtpClient client = new SmtpClient();
             client.Port = 25;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
